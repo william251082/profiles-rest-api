@@ -2,6 +2,8 @@
 
 ## REST API providing basic functionality for managing user profiles.
 
+[Demo](http://ec2-18-216-144-92.us-east-2.compute.amazonaws.com/api/)
+
 - Created a working local development server.
 - Created and manage database models.
 - Enabled the use of Django Admin.
